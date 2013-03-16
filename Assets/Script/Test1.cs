@@ -12,4 +12,9 @@ public class Test1 : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    void NewMethod()
+    {
+        
+    }
 }
