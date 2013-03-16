@@ -15,6 +15,6 @@ public class Test1 : MonoBehaviour {
 
     void NewMethod()
     {
-        
+        Object oo = new Object();
     }
 }
