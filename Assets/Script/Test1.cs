@@ -18,7 +18,7 @@ public class Test1 : MonoBehaviour {
         Object oo = new Object();
     }
 
-    void NewMethod1()
+    void NewMethod123()
     {
         Object oo = new Object();
     }
