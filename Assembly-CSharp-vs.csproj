@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Test1.cs" />
      <Compile Include="Assets\Script\Test2.cs" />
+     <None Include="Assets\NewShader.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
